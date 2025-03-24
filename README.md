@@ -2,9 +2,7 @@
 _A basic keylogger for educational purposes. This script logs keystrokes and saves them to a file while ensuring ethical use._
 
 
-**⚠️ Important Disclaimer:**
-
-This script should only be used for ethical and legal purposes (e.g., cybersecurity research, parental monitoring with consent). Unauthorized use may violate privacy laws.
+**⚠️ Important Disclaimer:** This script should only be used for ethical and legal purposes (e.g., cybersecurity research, parental monitoring with consent). Unauthorized use may violate privacy laws.
 
 
 
